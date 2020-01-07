@@ -1,5 +1,5 @@
-# 思居民宿
+# 故里民宿
 
-We are an app that provides homestay hotels in tourist areas around the world. Users can find the homestays they need on our platform. The homestays on our platform are all excellent in service, beautiful environment and guaranteed quality. Users are welcome to come and experience.
+我們是一款可在世界各地的旅遊區提供家庭旅館的應用程序。 用戶可以在我們的平台上找到所需的寄宿家庭。 我們平台上的民宿均提供優質服務，優美環境和有保證的質量。 歡迎用戶來體驗。
 
-If you have any questions, please contact the technical support email: phanlieu19653r@gmail.com, thank you for your support.
+如有任何疑問，請聯繫技術支持電子郵件：phanlieu19653r@gmail.com，謝謝您的支持。
